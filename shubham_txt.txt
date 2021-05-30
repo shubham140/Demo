@@ -2,3 +2,5 @@ Hello shubham chawla Now you are learning GIT
 
 
 hey we are on feature1 branch
+
+now on feature
